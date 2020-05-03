@@ -1,0 +1,35 @@
+
+  /*using hex*/
+    .red-text {
+    color: #f00;
+  }
+  .orchid-text {
+    color: orchid;
+  }
+  .sienna-text {
+    color: sienna;
+  }
+  .blue-text {
+    color: #00f;
+  }
+
+  /*using rgb*/
+  /*Instead of using six hexadecimal digits like you do with hex code, with RGB you specify the brightness of each color with a number between 0 and 255.
+ */
+
+body {
+	background-color: rgb(255, 165, 0);
+} 
+
+    .rg-red-text {
+    color: rgb(255, 0, 0);
+  }
+  .rg-orchid-text {
+    color: rgb(218, 112, 214);
+  }
+  .rg-sienna-text {
+    color: rgb(160, 82, 45);
+  }
+  .rg-blue-text {
+    color: rgb(0, 0, 255);
+  }
